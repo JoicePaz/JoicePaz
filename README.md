@@ -5,7 +5,9 @@
 
 * 💻 Currently Programming using: *Javascript, Typescript, NodeJS*;
 
-* 📝 Studying to become a **Certified AWS Developer**;
+* 📝 Studying **React**;
+
+* **Certified AWS Developer**;
 
 * 🎓 Undergraduate student: Computer Science - 2020;
 
@@ -17,7 +19,7 @@
 
 * 😄 Pronouns: Any pronoun is okay to me;
 
-* 📫 How to reach me: Just send me an *e-mail*, don't be a stranger.
+* 📫 How to reach me: Just send me an *e-mail* :)
 
 
 
