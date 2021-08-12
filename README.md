@@ -24,7 +24,7 @@
 * 📫 How to reach me: Just send me an *e-mail* :)
 
 
-![Snake animation](https://github.com/JoicePaz/JoicePaz/blob/output/github-contribution-grid-snake.svg).
+![Snake animation](https://github.com/JoicePaz/JoicePaz/blob/output/github-contribution-grid-snake.svg)
 
 
 ### LinkedIn Articles 📝
