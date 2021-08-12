@@ -24,6 +24,10 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoicePaz&layout=compact&theme=dracula)](https://github.com/JoicePaz/github-readme-stats)
+
+![Snake animation] (https://github.com/JoicePaz/JoicePaz)
+
 
 ### LinkedIn Articles 📝
 
