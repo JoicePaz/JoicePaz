@@ -1,5 +1,7 @@
 ## :star2: Joice Paz :star2::
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoicePaz&layout=compact&theme=dracula)](https://github.com/JoicePaz/github-readme-stats)
+
 
 ### About me :full_moon:
 
@@ -22,11 +24,7 @@
 * 📫 How to reach me: Just send me an *e-mail* :)
 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoicePaz&layout=compact&theme=dracula)](https://github.com/JoicePaz/github-readme-stats)
-
-![Snake animation] (https://github.com/JoicePaz/JoicePaz)
+![Snake animation](https://github.com/JoicePaz/JoicePaz)
 
 
 ### LinkedIn Articles 📝
