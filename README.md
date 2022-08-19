@@ -5,9 +5,9 @@
 
 ### About me :full_moon:
 
-* 💻 Currently Programming using: *Javascript, Typescript, NodeJS*;
+* 💻 Currently Programming using: *Javascript, Typescript, NodeJS and Angular*;
 
-* 📝 Studying **React**;
+* 📝 Studying **Angular**;
 
 * **Certified AWS Developer**;
 
