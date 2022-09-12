@@ -5,15 +5,21 @@
 
 ### About me :full_moon:
 
-* 💻 Currently Programming using: *Javascript, Typescript, NodeJS and Angular*;
+* 💻 Currently Programming at work using: *Angular, Boootstrap and C#*;
+// Past *Javascript, Typescript, NodeJS and Angular*;
 
-* 📝 Studying **Angular**;
+* 📝 Studying **Python** for school;
 
-* **Certified AWS Developer**;
+### Certifications
 
-* 🎓 Undergraduate student: Computer Science - 2020;
+* **Certified AWS Developer** 2021;
 
-* 👯 I'm looking to collaborate on tech communities;
+### School 
+
+* 🎓 Artificial Inteligence - Pontíficia Universidade Católica - Currently;
+* 🎓 Computer Science Graduation - Centro Universitário Carioca - Completed 2020;
+
+
 
 * 💬 Ask me about *Computational Simulation*! I love this subject and if you like it too please recomend me a book;
 
@@ -32,4 +38,4 @@
 [LinkedIn Monte Carlo Article](https://www.linkedin.com/pulse/t%C3%A9cnica-de-simula%C3%A7%C3%A3o-monte-carlo-joice-paz/)
 
 
-> The mind that opens to a new idea never returns to its original size
+> The mind that opens to a new idea never returns to its original size (I know, very clichê)
