@@ -10,16 +10,24 @@
 
 * 📝 Studying **Python** for school;
 
-### Certifications
-
-* **Certified AWS Developer** 2021;
-
 ### School 
 
 * 🎓 Artificial Inteligence - Pontíficia Universidade Católica - Currently;
 * 🎓 Computer Science Graduation - Centro Universitário Carioca - Completed 2020;
 
 
+### Certifications
+
+* :mag: **Certified AWS Developer** 2021;
+
+
+### Scientific Article - RECITE Magazine (Brazil)
+
+* :bar_chart: [ORCID - COMPUTATIONAL SIMULATION OF WATER CONSUMPTION (MARKOV CHAINS)](https://orcid.org/0000-0001-8150-905X)
+
+
+
+------
 
 * 💬 Ask me about *Computational Simulation*! I love this subject and if you like it too please recomend me a book;
 
