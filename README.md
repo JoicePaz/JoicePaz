@@ -22,7 +22,7 @@ Joice Paz :star2::
 * :mag: **Certified AWS Cloud Developer** 2021;
 
 
-### Published Scientific Article - RECITE (Brazil) 🇧🇷
+### Published Scientific Article - RECITE Magazine (Brazil) 🇧🇷
 
 * :bar_chart: [ORCID - COMPUTATIONAL SIMULATION OF WATER CONSUMPTION (MARKOV CHAINS)](https://orcid.org/0000-0001-8150-905X)
 
